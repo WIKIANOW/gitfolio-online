@@ -67,7 +67,7 @@ You can customize the appearance of your page however you want with URL params.
 
 Since the GitHub API only allows 5k requests per hour, it is possible that my `https://gitfolio-online.vercel.app/u/wangningkai` could hit the rate limiter. If you host it on your own Vercel server, then you don't have to worry about anything. Click on the deploy button to get started!
 
-[![Deploy to Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/wangningkai/gitfolio-online)
+[![Deploy to Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/WIKIANOW/gitfolio-online)
 
 ## Bug report
 
